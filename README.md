@@ -42,7 +42,7 @@
 ### 📚 Обучение
 
 <a href="./certificates/SQL.pdf">
-  <img src="./certificates/SQL.png" width="500">
+  <img src="./certificates/SQL.png" width="400">
 </a>
 
 ---
