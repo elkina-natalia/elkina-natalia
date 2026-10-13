@@ -4,19 +4,19 @@
 
 ### 🧩 Инструменты и технологии
 
-#### Тестирование API и интеграций
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=&logo=postman&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-02569B?style=flat)
-![SOAP](https://img.shields.io/badge/SOAP-6BA539?style=flat)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=111111)
-
 #### Тестирование Web
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-4DA3FF?style=flat)
+
+#### Тестирование API и интеграций
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP-6BA539?style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=111111)
 
 #### Логи и мониторинг
 
