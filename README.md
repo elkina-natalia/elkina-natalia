@@ -1,4 +1,4 @@
-#### Junior Manual QA Engineer
+#### Junior QA Engineer
 
 ---
 
